@@ -30,6 +30,7 @@
 | admission_datee | DATE |
 | diagnosis | TEXT |
 | attending_doctor_id* | INT |
+
 *Primare Key
 
 **1.** Show first name, last name, and gender of patients whose gender is 'M'
