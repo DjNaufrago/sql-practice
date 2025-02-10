@@ -13,13 +13,13 @@
 | allergies | TEXT |
 | height | INT |
 | weight | INT |
-
+<br />
 **TABLE:** province_names
 | Column | Type |
 | --- | --- |
 | province_id* | CHAR(2) |
 | province_named | TEXT |
-
+<br />
 **TABLE:** admissions
 | Column | Type |
 | --- | --- |
