@@ -82,7 +82,7 @@ SELECT CONCAT(first_name, " ", last_name) AS full_name
 FROM patients;
 ```
 
-**AS:** https://www.w3schools.com/sql/sql_ref_as.asp
+**AS:** https://www.w3schools.com/sql/sql_ref_as.asp <br />
 **CONCAT:** https://www.w3schools.com/sql/func_sqlserver_concat.asp
 
 **7.** Show first name, last name, and the full province name of each patient. Example: 'Ontario' instead of 'ON'
@@ -101,7 +101,7 @@ FROM patients
 WHERE YEAR(birth_date) = 2010;
 ```
 
-**COUNT:** https://www.w3schools.com/sql/sql_count.asp
+**COUNT:** https://www.w3schools.com/sql/sql_count.asp <br />
 **YEAR:** https://www.w3schools.com/sql/func_sqlserver_year.asp
 
 **9.** Show the first_name, last_name, and height of the patient with the greatest height.
@@ -154,8 +154,8 @@ group by city
 having province_id = 'NS';
 ```
 
-**DISTINCT:** https://www.w3schools.com/sql/sql_distinct.asp
-**GROUP BY:** https://www.w3schools.com/sql/sql_groupby.asp
+**DISTINCT:** https://www.w3schools.com/sql/sql_distinct.asp <br />
+**GROUP BY:** https://www.w3schools.com/sql/sql_groupby.asp <br />
 **HAVING:** https://www.w3schools.com/sql/sql_having.asp
 
 **15.** Write a query to find the first_name, last name and birth date of patients who has height greater than 160 and weight greater than 70
@@ -165,7 +165,7 @@ FROM patients
 WHERE height > 160 AND weight > 70;
 ```
 
-**AND:** https://www.w3schools.com/sql/sql_and.asp
+**AND:** https://www.w3schools.com/sql/sql_and.asp <br />
 **OPERATORS:** https://www.w3schools.com/sql/sql_operators.asp
 
 **16.** Write a query to find list of patients first_name, last_name, and allergies where allergies are not null and are from the city of 'Hamilton'
