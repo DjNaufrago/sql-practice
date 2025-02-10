@@ -37,7 +37,7 @@ FROM patients
 WHERE gender = 'M';
 ```
 
-**SELECT:** https://www.w3schools.com/sql/sql_select.asp 
+**SELECT:** https://www.w3schools.com/sql/sql_select.asp <br />
 **WHERE:** https://www.w3schools.com/sql/sql_where.asp
 
 **2.** Show first name and last name of patients who does not have allergies. (null)
