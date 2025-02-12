@@ -1,6 +1,6 @@
 **BD:** northwind.db
 
-**TABLE:** categories
+|**TABLE:** | categories |
 | Column | Type |
 | --- | --- |
 | category_id* | INT |
