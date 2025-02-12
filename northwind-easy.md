@@ -169,6 +169,6 @@ FROM products;
 ```
 
 **AVG:** https://www.w3schools.com/sql/sql_avg.asp </br>
-**ROUND:** https://www.w3schools.com/sql/func_sqlserver_round.asp
-**AS:** https://www.w3schools.com/sql/sql_ref_as.asp
+**ROUND:** https://www.w3schools.com/sql/func_sqlserver_round.asp </br>
+**AS:** https://www.w3schools.com/sql/sql_ref_as.asp </br>
 **SUM:** https://www.w3schools.com/sql/sql_sum.asp
